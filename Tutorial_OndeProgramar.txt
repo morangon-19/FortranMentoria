@@ -1,0 +1,27 @@
+COMPILADOR ONLINE
+    Não sei se permite uso de arquivos de entrada e saída
+    https://www.onlinegdb.com/online_fortran_compiler
+
+VSCODE E SUBSISTEMA LINUX NO WINDOWS
+    01) Open the cmd (execute as administrator)
+    02) Write on cmd
+        wsl --install
+    03) Press Enter
+    04) Wait some minutes
+    05) Restart the PC (it took a couple minutes)
+    06) Wait the Ubuntu installation
+    07) Insert a username and a password
+        seu_nome
+        sua_senha
+    08) Download VSCode (Windows Version)
+    09) Open VSCode
+    10) Install the extension Remote - WSL
+    11) Check all the options
+    12) Click on the green button (with a symbol like this: ><)
+    13) Click in New WSL Window
+    14) Open a terminal
+    15) Install gfortran (compiler)
+        sudo apt-get install gfortran
+    16) Wait some minutes
+    17) Install the extension Modern Fortran
+    18) Make a good use :D
